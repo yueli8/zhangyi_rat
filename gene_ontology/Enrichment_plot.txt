@@ -1,0 +1,9 @@
+GO	fold_Enrichment	FDR	counts
+smooth muscle adaptation (GO:0014805)	100	0.0332	2
+positive regulation of chemokine production (GO:0032722)	62.14	0.0305	3
+cellular response to interleukin-1 (GO:0071347)	58.83	0.00916	4
+response to interleukin-1 (GO:0070555)	46.32	0.0115	4
+positive regulation of cytokine production (GO:0001819)	15.01	0.0291	5
+regulation of cytokine production (GO:0001817)	11.34	0.0267	6
+response to cytokine (GO:0034097)	10.77	0.0239	6
+response to stress (GO:0006950)	4.3	0.0265	10
